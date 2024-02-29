@@ -1,0 +1,46 @@
+body {
+    background-color: whitesmoke;
+  }
+  .h1 {
+    color: yellowgreen;
+    text-align: center;
+    text-decoration: double;
+  } 
+  .hr{
+     color: tomato;
+  }
+  .myBtns
+  {
+    text-align: center;
+
+    width:max;
+  height:400px;
+ 
+  display: inline-flexbox;
+  align-content: space-between ;
+  align-items: centers;
+  }
+  .button
+  {
+    display: inline-block;
+    width: 100px; /* Adjust the width and height to control the size of the circle */
+    height: 100px; /* Same as width to ensure a perfect circle */
+    border-radius: 30% ; /* This makes the element round */
+    border: solid 7px ;
+  }
+  #blue
+  {
+    background:blue
+
+  }
+  #green{
+    background: green;
+  }
+  #red
+  {
+    background: red;
+  }
+  #yellow{
+    background: yellow;
+  }
+  
